@@ -31,10 +31,12 @@ Use For Each, Assign and If Statements to find the minimum and maximum number in
 ### SAMPLE OUTPUT
 
 ```
-07/16/2021 14:07:25 => [Debug] Execution started for project: RPADev-S02P01-ForEachIfStatement
-07/16/2021 14:07:26 => [Info] RPADev-S02P01-ForEachIfStatement execution started
-07/16/2021 14:07:28 => [Debug] The smallest value is: 2. The larges value is: 9.
-07/16/2021 14:07:28 => [Info] RPADev-S02P01-ForEachIfStatement execution ended in: 00:00:01
+03/21/2024 13:28:53 => [Debug] Debug started for file: Main
+03/21/2024 13:28:54 => [Info] RPADev-S02P01-ForEachIfStatement execution started
+03/21/2024 13:28:54 => [Info] RPADev-S02P01-ForEachIfStatement.Array_GetMinimum.Minimum; -42
+03/21/2024 13:28:54 => [Info] RPADev-S02P01-ForEachIfStatement.Array_GetMaximum.Maximum; 65535
+03/21/2024 13:28:54 => [Info] RPADev-S02P01-ForEachIfStatement.Main.OperationCompleted;
+03/21/2024 13:28:54 => [Info] RPADev-S02P01-ForEachIfStatement execution ended in: 00
 ```
 
 ### ARCHITECTURE REQUIREMENTS
@@ -58,6 +60,7 @@ Clone the project to develop or change it.
 
 ### READ ME CHANGE LOG
 Thursday, 21 March 2024 10:45:25 - Copy ReadMe from WindowsLegacy project and add Project Format section
+Thursday, 21 March 2024 13:26:00 - Update sample output
 
 ### RPA DEVELOPER FOUNDATION SECTIONS
 
