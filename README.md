@@ -58,11 +58,6 @@ Clone the project to develop or change it.
 - [This.GitHub](https://github.com/shonharsh)
 - [LinkedIn](https://www.linkedin.com/in/shonharsh/)
 
-### READ ME CHANGE LOG
-1. Thursday, 21 March 2024 10:45:25 - Copy ReadMe from WindowsLegacy project and add Project Format section
-2. Thursday, 21 March 2024 13:26:00 - Update sample output
-3. Friday, 22 March 2024 13:54:25 - Update outline links for each project version
-
 ### RPA DEVELOPER FOUNDATION SECTIONS
 
 1. Get Started With RPA Development
