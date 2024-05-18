@@ -30,7 +30,7 @@ Use For Each, Assign and If Statements to find the minimum and maximum number in
 
 ### Sample Output
 
-```
+```sh
 03/21/2024 13:28:53 => [Debug] Debug started for file: Main
 03/21/2024 13:28:54 => [Info] RPADev-S02P01-ForEachIfStatement execution started
 03/21/2024 13:28:54 => [Info] RPADev-S02P01-ForEachIfStatement.Array_GetMinimum.Minimum; -42
@@ -49,11 +49,13 @@ A standard UiPath, Studio to Orchestrator cloud setup is the base of operation. 
 
 Clone the project to develop or change it.
 
-`git clone https://github.com/ShonHarsh/RPADev-S02P01-ForEachIfStatement`
+```sh
+git clone https://github.com/ShonHarsh/RPADev-S02P01-ForEachIfStatement
+```
 
 ### Links
 - [UiPath Automation Platform](https://www.uipath.com/)
-- [UiPath Studio](https://www.uipath.com/product/studio)
+- [UiPath Studio](https://www.uipath.com/product/studio)- [Atom Editor (Used for all my Readme files)](https://atom-editor.cc/)
 - [Shon Harsh Website 127.0.0.1](https://shonharsh.github.io/curriculum-vitae/index.html)
 - [This.GitHub](https://github.com/shonharsh)
 - [LinkedIn](https://www.linkedin.com/in/shonharsh/)
