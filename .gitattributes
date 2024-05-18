@@ -1,1 +1,12 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# File Type - Binary
+*.jpg    binary
+*.png    binary
+*.gif    binary
+*.zip    binary
+
+#File Type Set Language
 *.xaml linguist-language=C#
+*.md text diff=markdown
